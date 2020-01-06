@@ -1,6 +1,6 @@
 import _collections
 pocty = _collections.defaultdict(int)
-
+###toto je komentar
 try:
     with open("text.txt") as file:
         for line in file:
